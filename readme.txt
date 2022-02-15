@@ -1,0 +1,1 @@
+This project is an automation of excel pivot tables. it aims to feed the previous excel files with updated ones to have resulting pivot tables updated with time.
